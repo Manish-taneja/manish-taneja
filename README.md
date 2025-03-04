@@ -12,7 +12,7 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=manish-taneja&theme=gruvbox)
 
-Connect with me:
+## Connect with me:
 📫 **Let's connect:** [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mantanz/))
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-taneja&theme=tokyonight)  
@@ -39,18 +39,18 @@ Connect with me:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
-🧠 AI & Generative AI
+## 🧠 AI & Generative AI
 ![LLM](https://img.shields.io/badge/LLM-Large_Language_Model-blue)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-purple)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-Transformers-orange)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-Multi_Agent_Systems-red)
 
-🛠 AI Frameworks
+## 🛠 AI Frameworks
 ![CrewAI](https://img.shields.io/badge/CrewAI-Autonomous_Agents-blueviolet)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Graph_AI_Orchestration-green)
 ![LangChain](https://img.shields.io/badge/LangChain-AI_Agent_Framework-lightgrey)
 
-💰 Fintech & Lending
+## 💰 Fintech & Lending
 ![Lending](https://img.shields.io/badge/Lending-Fintech_Banking-blue)
 ![Finacle](https://img.shields.io/badge/Finacle-Bank_Core_System-orange)
 
