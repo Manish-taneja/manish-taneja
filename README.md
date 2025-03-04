@@ -22,6 +22,11 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=manish-taneja&theme=gruvbox)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikchhimwal/ritikchhimwal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikchhimwal/ritikchhimwal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ritikchhimwal/ritikchhimwal/output/github-snake.svg" />
+</picture>
 
 ## 🚀 Tech Stack  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
