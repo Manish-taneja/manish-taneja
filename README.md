@@ -1,4 +1,4 @@
-![logo](https://github.com/Manish-taneja/manish-taneja/blob/main/AdobeStock_723364539_Preview.jpeg)
+![logo](https://github.com/Manish-taneja/manish-taneja/blob/main/mantanz.jpeg)
 
 ## Hi, I'm Manish Taneja 👋
 
