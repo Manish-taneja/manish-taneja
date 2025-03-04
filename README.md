@@ -3,7 +3,7 @@
 
 **A Passionate Solution Architect experienced in GenerativeAI using Python, relational/non-relational databases/cloud (GCP, AWS, Azure) and state-of-the-art LLM Models**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=manish-taneja&color=blue)
 
 🚀 Senior Prinicpal Engineer @Paytm | Exploring GenAI, Machine Learning & Infra Structure as Service | Building Fintech that scales with significant ROI 
 💡 Currently working on AI-driven operation alongside security automation & contract management tools  
