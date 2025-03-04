@@ -10,17 +10,16 @@
 📌 Interests: AI, Infra-as-a-Service, Fintech, Security, Banking
 
 💬 Ask me about LLM, RAG, GenAI
-📫 How to reach me: manish.taneja01@gmail.com
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=manish-taneja&theme=gruvbox)
-
-## Connect with me:
-📫 **Let's connect:** [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mantanz/)
+## 📫 Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](manish.taneja01@gmail.com)
+![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mantanz/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@adhyatmikintelligence)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-taneja&show_icons=true&theme=radical)   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-taneja&layout=compact&theme=radical)  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=manish-taneja&theme=gruvbox)
 
 
 ## 🚀 Tech Stack  
