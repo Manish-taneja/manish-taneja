@@ -1,3 +1,4 @@
+![logo](https://github.com/Manish-taneja/manish-taneja/blob/main/AdobeStock_723364539_Preview.jpeg)
 
 ## Hi, I'm Manish Taneja 👋
 
