@@ -17,7 +17,7 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@adhyatmikintelligence)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-taneja&layout=compact&theme=radical)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-taneja&show_icons=true&theme=radical)   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-taneja&layout=compact&theme=radical)    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-taneja&show_icons=true&theme=radical)   
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=manish-taneja&theme=gruvbox)
 
