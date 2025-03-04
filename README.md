@@ -13,16 +13,8 @@ A Passionate Solution Architect experienced in GenerativeAI using Python, relati
 Connect with me:
 📫 **Let's connect:** [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mantanz/))
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
-
-## 🔥 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-taneja&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-taneja&show_icons=true&theme=radical)  
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-taneja&show_icons=true&theme=radical)  
-
-## 🚀 Most Used Languages  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-taneja&show_icons=true&theme=radical)   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-taneja&layout=compact&theme=radical)  
 
 
