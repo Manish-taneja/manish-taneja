@@ -5,7 +5,7 @@
 
 🚀 Senior Prinicpal Engineer @Paytm | Exploring GenAI, Machine Learning & Infra Structure as Service | Building Fintech that scales with significant ROI 
 💡 Currently working on AI-driven operation alongside security automation & contract management tools  
-📌 Interests: AI, Infra-as-a-Service, Fintech, Security, Banking ( Finacle ), Lending  
+📌 Interests: AI, Infra-as-a-Service, Fintech, Security, Banking
 
 💬 Ask me about LLM, RAG, GenAI
 📫 How to reach me: manish.taneja01@gmail.com
