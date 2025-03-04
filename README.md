@@ -15,7 +15,7 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=manish-taneja&theme=gruvbox)
 
 ## Connect with me:
-📫 **Let's connect:** [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mantanz/))
+📫 **Let's connect:** [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mantanz/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)mediume
 
 
