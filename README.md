@@ -1,7 +1,9 @@
 
 ## Hi, I'm Manish Taneja 👋
-A Passionate Solution Architect experienced in GenerativeAI using Python, relational/non-relational databases/cloud (GCP, AWS, Azure) and state-of-the-art LLM Models
-🚀 Senior Prinicpal Engineer @Paytm | Exploring AI & Infra Structure as Service | Building Fintech that scales with significant ROI 
+
+**A Passionate Solution Architect experienced in GenerativeAI using Python, relational/non-relational databases/cloud (GCP, AWS, Azure) and state-of-the-art LLM Models**
+
+🚀 Senior Prinicpal Engineer @Paytm | Exploring GenAI, Machine Learning & Infra Structure as Service | Building Fintech that scales with significant ROI 
 💡 Currently working on AI-driven operation alongside security automation & contract management tools  
 📌 Interests: AI, Infra-as-a-Service, Fintech, Security, Banking ( Finacle ), Lending  
 
