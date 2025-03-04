@@ -1,6 +1,6 @@
 ![logo](https://github.com/Manish-taneja/manish-taneja/blob/main/mantanz.jpeg)
 
-## Hi, I'm Manish Taneja 👋
+<h1 align="center"> Hi, I'm Manish Taneja 👋 </h1>
 
 **A Passionate Solution Architect experienced in GenerativeAI using Python, relational/non-relational databases/cloud (GCP, AWS, Azure) and state-of-the-art LLM Models**
 
