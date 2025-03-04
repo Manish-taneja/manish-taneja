@@ -3,6 +3,8 @@
 
 **A Passionate Solution Architect experienced in GenerativeAI using Python, relational/non-relational databases/cloud (GCP, AWS, Azure) and state-of-the-art LLM Models**
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
 🚀 Senior Prinicpal Engineer @Paytm | Exploring GenAI, Machine Learning & Infra Structure as Service | Building Fintech that scales with significant ROI 
 💡 Currently working on AI-driven operation alongside security automation & contract management tools  
 📌 Interests: AI, Infra-as-a-Service, Fintech, Security, Banking
@@ -14,8 +16,9 @@
 
 ## Connect with me:
 📫 **Let's connect:** [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mantanz/))
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)mediume
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-taneja&theme=tokyonight)  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-taneja&show_icons=true&theme=radical)   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-taneja&layout=compact&theme=radical)  
 
@@ -39,11 +42,18 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
+
 ## 🧠 AI & Generative AI
 ![LLM](https://img.shields.io/badge/LLM-Large_Language_Model-blue)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-purple)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-Transformers-orange)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-Multi_Agent_Systems-red)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+
 
 ## 🛠 AI Frameworks
 ![CrewAI](https://img.shields.io/badge/CrewAI-Autonomous_Agents-blueviolet)
