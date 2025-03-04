@@ -10,7 +10,7 @@
 💬 Ask me about LLM, RAG, GenAI
 📫 How to reach me: manish.taneja01@gmail.com
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=gruvbox)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=manish-taneja&theme=gruvbox)
 
 Connect with me:
 📫 **Let's connect:** [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mantanz/))
